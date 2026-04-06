@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "pnpm servor src/ index.html --port 3000 --reload",
+    "dev": "pnpm servor src/ index.html --port 1234 --reload",
     "deploy": "gh-pages -d src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
